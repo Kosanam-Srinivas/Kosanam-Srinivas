@@ -10,8 +10,8 @@ I am a passionate software developer with a strong interest in testing, frontend
 
 ### 💼 Skills and Tools
 
-- **Testing Tools:** Selenium, TestNG, JUnit, Postman
-- **API Testing:** RESTful APIs, Postman, REST Assured
+- **Testing Tools:** Selenium, TestNG, JUnit
+- **API Testing:** Spring RESTful APIs, Postman, Fast APIs
 - **Frontend Skills:** HTML, CSS, JavaScript, React (in progress)
 - **Programming Languages:** Java, Python, C
 
